@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jejinoes.github.io/test/",
+  "homepage": "https://github.com/jejinoes/jejinoes.github.io.git",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
