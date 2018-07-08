@@ -2,8 +2,9 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jejinoes/jejinoes.github.io.git",
+  "homepage": "https://jejinoes.github.io/test/",
   "dependencies": {
+    "ajv": "^6.5.2",
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
