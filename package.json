@@ -2,7 +2,7 @@
   "name": "hello",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jejinoes.github.io/",
+  "homepage": "https://jejinoes.github.io/test/public/index.html",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
